@@ -18,3 +18,5 @@
  -- create table Hmovies(Mname varchar(30), Mrating char(1), Mdate Date, Mcategory varchar(30));
 -- select * from movies.hmovies;
 
+select * from school.student;
+
